@@ -58,7 +58,7 @@ echo -e "     ${GREEN}[${BIWhite}3${GREEN}] ${NC}Auto Backup Data      "
 echo -e "     ${GREEN}[${BIWhite}4${GREEN}] ${NC}Cleaner Data      "
 echo -e "     ${GREEN}[${BIWhite}0${GREEN}] Back To Menu     "
 echo -e " "
-echo -e "     \e[1;97;101m✶ Upload By Arya Blitar 081931615811 ✶ ${NC} "
+echo -e "     \e[1;97;101m✶ Upload By Rosi Center 081931472448 ✶ ${NC} "
 echo -e " ${PURPLE}└──────────────────────────────────────────────┘${NC}"
 echo ""
 read -p " Select menu : " opt
