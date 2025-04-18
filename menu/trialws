@@ -132,8 +132,8 @@ service cron restart > /dev/null 2>&1
 cat >/var/www/html/vmess-$user.txt <<-END
 
 ====================
-BY ARYA NBC
-wa.me/6281931615811
+BY ROSI STORE
+wa.me/6281931472448
 ====================
 
 # Format Vmess WS TLS
