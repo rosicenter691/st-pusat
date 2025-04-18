@@ -27,13 +27,13 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/rosicenter691/st-pusat/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin    
     rm -rf menu.zip
     rm -rf update.sh
-    wget -qO- fv-tunnel "https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/media/limmit" 
+    wget -qO- fv-tunnel "https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/limmit" 
     chmod +x flimmit 
     bash limmit
     rm -rf limmit
