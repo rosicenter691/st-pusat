@@ -100,8 +100,8 @@ trojanlink="trojan://${uuid}@bug.com:443?path=%2Ftrojan-ws&security=tls&host=${d
 
 cat >/var/www/html/trojan-$user.txt <<-END
 ====================
-BY ARYA NBC
-wa.me/6281931615811
+BY ROSI STORE
+wa.me/6281931472448
 ====================
 
 # Format Trojan GO/WS
@@ -222,7 +222,7 @@ echo -e "Berakhir Pada    : $expe"
 echo -e "\033[0;34m◇━━━━━━━━━━━━━━━━━◇\033[0m" 
 echo ""
 echo -e "\033[0;33m┌────────────────────────────────────────┐\033[0m"
-echo -e "      Autoscript By Arya Blitar       "
+echo -e "      Autoscript By Rosi Center       "
 echo -e "\033[0;33m└────────────────────────────────────────┘\033[0m"
 echo ""
 read -n 1 -s -r -p "Press any key to back on menu"
