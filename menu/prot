@@ -43,7 +43,7 @@ echo -e " ${ORANGE} │  ${GREEN}» ${NC}BadVPN 1                   : ${GREEN}71
 echo -e " ${ORANGE} │  ${GREEN}» ${NC}BadVPN 2                   : ${GREEN}7200           ${ORANGE}│"
 echo -e " ${ORANGE} │  ${GREEN}» ${NC}BadVPN 3                   : ${GREEN}7300           ${ORANGE}│"
 echo -e " ${ORANGE} │ ${ORANGE}                                               │"
-echo -e " ${ORANGE} │  \e[1;97;101m✶ Upload By Arya Blitar 081931615811 ✶ ${NC}       ${ORANGE}│"
+echo -e " ${ORANGE} │  \e[1;97;101m✶ Upload By Rosi Center 081931472448 ✶ ${NC}       ${ORANGE}│"
 echo -e " ${ORANGE} ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${NC}"
 echo ""
 read -n 1 -s -r -p "  Press Any Key To Back On Menu"
