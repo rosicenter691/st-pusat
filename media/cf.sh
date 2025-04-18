@@ -9,10 +9,10 @@ echo ""
 echo ""
 #sub=$(</dev/urandom tr -dc a-z0-9 | head -c3)
 read -rp "Masukin Nama Contoh (Kamu-Anjing) : " -e sub
-DOMAIN=blitar-store.ggff.net
-SUB_DOMAIN=${sub}.blitar-store.ggff.net
-CF_ID=Arista15oye@gmail.com
-CF_KEY=8ac7cc64b17616bc45c5117d6847f197b7763
+DOMAIN=rosicenter5.my.id
+SUB_DOMAIN=${sub}.rosicenter5.my.id
+CF_ID=panwaslublegapilkada@gmail.com
+CF_KEY=c1feca5207e3db081a8d69eae9a5015ec5d4f
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
