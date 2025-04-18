@@ -18,7 +18,7 @@ ORANGE='\033[0;33m'
 LIGHT='\033[0;37m'
 grenbo="\e[92;1m"
 
-bot="https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/bot/kyt.sh"
+bot="https://raw.githubusercontent.com/rosicenter691/st-pusat/main/bot/kyt.sh"
 red() { echo -e "\\033[32;1m${*}\\033[0m"; }
 clear
 ipsaya=$(curl -sS ipv4.icanhazip.com)
