@@ -383,8 +383,8 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
     curl -s ipinfo.io/city >>/etc/xray/city
     curl -s ipinfo.io/org | cut -d " " -f 2-10 >>/etc/xray/isp
     print_install "Memasang Konfigurasi Packet"
-    wget -O /etc/haproxy/haproxy.cfg "https://raw.githubusercontent.com/Arya-Blitar22/media/main/haproxy.cfg" >/dev/null 2>&1
-    wget -O /etc/nginx/conf.d/xray.conf "https://raw.githubusercontent.com/Arya-Blitar22/media/main//xray.conf" >/dev/null 2>&1
+    wget -O /etc/haproxy/haproxy.cfg "https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/haproxy.cfg" >/dev/null 2>&1
+    wget -O /etc/nginx/conf.d/xray.conf "https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/xray.conf" >/dev/null 2>&1
     sed -i "s/xxx/${domain}/g" /etc/haproxy/haproxy.cfg
     sed -i "s/xxx/${domain}/g" /etc/nginx/conf.d/xray.conf
     curl ${REPO}media/nginx.conf > /etc/nginx/nginx.conf
@@ -495,9 +495,9 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/media/limmit && chmod +x limmit && ./limmit
-wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/media/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
-wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/slowdns/noobzvpns.zip
+wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/limmit && chmod +x limmit && ./limmit
+wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/slowdns/noobzvpns.zip
 unzip noobzvpns.zip
 bash install.sh
 rm -rf noobzvpns
@@ -553,7 +553,7 @@ clear
 print_install "Menginstall Dropbear"
 # // Installing Dropbear
 apt-get install dropbear -y > /dev/null 2>&1
-wget -O /etc/issue.net "https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/media/issue.net"
+wget -O /etc/issue.net "https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/issue.net"
 wget -q -O /etc/default/dropbear "${REPO}media/dropbear.conf"
 chmod +x /etc/default/dropbear
 /etc/init.d/dropbear restart
