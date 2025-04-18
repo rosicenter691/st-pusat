@@ -117,8 +117,8 @@ clear
 
 cat > /var/www/html/ssh-$Login.txt <<-END
 ==========================
-BY ARYA NBC
-wa.me/6281931615811
+BY ROSI STORE
+wa.me/6281931472448
 ==========================
 Username         : $Login
 Password         : $Pass
