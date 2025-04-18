@@ -22,7 +22,7 @@ echo -e "     ${COLOR1}[${BIWhite}4${COLOR1}] ${NC}Renew Account Vless     "
 echo -e "     ${COLOR1}[${BIWhite}5${COLOR1}] ${NC}Cek User Login Account Vless     "
 echo -e "     ${COLOR1}[${BIWhite}0${COLOR1}] ${NC}Back To Menu     "
 echo -e " "
-echo -e "     \e[1;97;101m✶ Upload By Arya Blitar 081931615811 ✶ ${NC} "
+echo -e "     \e[1;97;101m✶ Upload By Rosi Center 081931472448 ✶ ${NC} "
 echo -e " ${BICyan}└──────────────────────────────────────────────┘${NC}"
 echo ""
 read -p " Select menu : " opt
