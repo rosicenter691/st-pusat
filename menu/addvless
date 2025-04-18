@@ -122,8 +122,8 @@ clear
 cat >/var/www/html/vless-$user.txt <<-END
 
 ====================
-BY ARYA NBC
-wa.me/6281931615811
+BY ROSI STORE
+wa.me/6281931472448
 ====================
 
 # Format Vless WS TLS
@@ -231,7 +231,7 @@ echo -e "Dibuat Pada      : $tnggl"
 echo -e "Berakhir Pada    : $expe"
 echo -e "\033[0;34m◇━━━━━━━━━━━━━━━━━◇\033[0m"
 echo -e " "
-echo -e "\033[0;32m Sc Arya Blitar ${NC} "
+echo -e "\033[0;32m Sc Rosi Center ${NC} "
 echo "" 
 read -n 1 -s -r -p "Press any key to back on menu"
 
