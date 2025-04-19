@@ -497,7 +497,7 @@ clear
 print_install "Memasang Service Limit IP & Quota"
 wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/limmit && chmod +x limmit && ./limmit
 wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
-wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/slowdns/noobzvpns.zip
+wget -q https://raw.githubusercontent.com/rosicenter691/st-pusat/main/slowdns/noobzvpns.zip
 unzip noobzvpns.zip
 bash install.sh
 rm -rf noobzvpns
