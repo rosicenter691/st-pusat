@@ -285,7 +285,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>IPVPS    :</code><code>$MYIP</code>
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>────────────────────</code>
-<b> happy new year 2024 </b>
+<b> SC ROSI STORE 2025 </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6281931472448"}]]}' 
