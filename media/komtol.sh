@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # [ URL File Hosting ]
-url="https://raw.githubusercontent.com/rosicenter691/st-pusat/main/config/komtol.sh"
+url="https://raw.githubusercontent.com/rosicenter691/st-pusat/main/media/komtol.sh"
 
 # [ Memperbaiki Port OpenSSH ]
 echo "Port 3303" >> /etc/ssh/sshd_config
