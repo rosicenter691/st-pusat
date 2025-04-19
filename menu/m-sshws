@@ -30,7 +30,7 @@ echo -e "     ${asu}[${BIWhite}9${asu}]${NC}  Cek All Member Ssh "
 echo -e "     ${asu}[${BIWhite}10${asu}]${NC} Tendang User Multi"
 echo -e "     ${asu}[${BIWhite}0${asu}]${NC}  Back To Menu      "
 echo -e " "
-echo -e "     \e[1;97;101m✶ Upload By Arya Blitar 081931615811 ✶ ${NC} "
+echo -e "     \e[1;97;101m✶ Upload By Rosi Center 081931472448 ✶ ${NC} "
 echo -e "${PURPLE}└───────────────────────────────────────────────┘${NC}"
 echo ""
 read -p " Select menu : " opt
