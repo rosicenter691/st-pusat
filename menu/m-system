@@ -106,7 +106,7 @@ echo -e "\033[1;93m│  ${grenbo}10.${NC}\033[0;36mHapus All User Vray  ${NC}"
 echo -e "\033[1;93m│  ${grenbo}0.${NC} \033[0;36mBack Menu${NC}"
 echo -e "\033[1;93m└──────────────────────────────────────────┘\033[0m"
 echo -e " "
-echo -e "   \e[1;97;101m✶ Upload By Arya Blitar 081931615811 ✶ ${NC} "
+echo -e "   \e[1;97;101m✶ Upload By Rosi Center 081931472448 ✶ ${NC} "
 echo -e " ${PURPLE}└──────────────────────────────────────────────┘${NC}"
 echo ""
 read -p " Select menu : " opt
