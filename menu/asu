@@ -84,7 +84,7 @@ asu
 
 echo ""
 echo -e ""
-echo -e " Sc By Arya Blitar       "
+echo -e " Sc By Rosi Center       "
 echo ""
 read -n 1 -s -r -p "Press any key to back on menu"
 
